@@ -1,0 +1,219 @@
+@media (min-width: 320px) and (max-width:575.98px) {
+    nav {
+        margin: 0 0 -0px 0;
+    }
+    nav .navbar-brand {
+        padding: 10px 0 10px 0;
+    }
+    nav ul li {
+        margin: 0 0px 0 0;
+        text-align: center;
+    }
+    .banner_part {
+        padding: 20px 0 100px 0;
+    }
+    .banner_part .text_con {
+        margin: 0px 0px 0 0;
+    }
+    .banner_part .img_con {
+        margin: 50px 0 0 0px;
+    }
+    .banner_part .img_con img {
+        width: 100%;
+    }
+    .features_part {
+        padding: 35px 0 35px 0;
+    }
+    .features_part .title p {
+        width: 298px;
+    }
+    footer {
+        padding: 35px 0 20px 0;
+    }
+    footer .title p {
+        width: 295px;
+    }
+    footer .content input {
+        width: 289px;
+        margin: 0 0 0 0px;
+    }
+    footer .content {
+        display: block;
+        margin: 20px 0 0 0;
+    }
+    footer .content .butten {
+        text-align: center;
+    }
+    footer .content .butten a {
+        margin: 16px 0 0 0px;
+    }
+    footer .icon a {
+        margin: 0 5px;
+    }
+    .address .ri {
+        margin: 0 0 0 75px;
+    }
+}
+@media (min-width: 576px) and (max-width:767.98px) {
+    nav {
+        margin: 0 0 0 0;
+    }
+    nav .navbar-brand {
+        padding: 10px 0 10px 0;
+    }
+    nav ul li {
+        margin: 0 0px 0 0;
+        text-align: center;
+    }
+    .banner_part {
+        padding: 20px 0 100px 0;
+    }
+    .banner_part .banner {
+        display: block;
+    }
+    .banner_part .text_con {
+        width: 100%;
+        text-align: center;
+    }
+    .banner_part .img_con {
+        margin: 50px 100px;
+    }
+    .features_part {
+        padding: 35px 0 35px 0;
+    }
+    .features_part .title p {
+        width: 474px;
+    }
+    footer {
+        padding: 35px 0 20px 0;
+    }
+    footer .title p {
+        width: 474px;
+    }
+    footer .content input {
+        width: 514px;
+        margin: 0 0 0 0px;
+    }
+    footer .content {
+        display: block;
+        margin: 20px 0 0 0;
+    }
+    footer .content .butten {
+        text-align: center;
+    }
+    footer .content .butten a {
+        margin: 16px 0 0 0px;
+    }
+    footer .icon a {
+        margin: 0 5px;
+    }
+    .address .ri {
+        margin: 0 0 0 75px;
+    }
+}
+@media (min-width: 768px) and (max-width:991.98px) {
+    nav {
+        margin: 0 0 0 0;
+    }
+    nav .navbar-brand {
+        padding: 10px 0 10px 0;
+    }
+    nav ul li {
+        margin: 0 0px 0 0;
+        text-align: center;
+    }
+    .banner_part {
+        padding: 65px 0 100px 0;
+    }
+    .banner_part .text_con {
+        margin: 63px 32px 0 0;
+    }
+    .banner_part .img_con {
+        margin: 0 0 0 0;
+    }
+    .features_part {
+        padding: 35px 0 35px 0;
+    }
+    .features_part .title p {
+        width: 474px;
+    }
+    footer {
+        padding: 35px 0 20px 0;
+    }
+    footer .title p {
+        width: 474px;
+    }
+    footer .content input {
+        width: 500px;
+        margin: 0 40px 0 0;
+    }
+    footer .content .butten {
+        text-align: center;
+    }
+    footer .icon a {
+        margin: 0 5px;
+    }
+    .address .ri {
+        margin: 0;
+    }
+}
+@media (min-width: 992px) and (max-width:1199.98px) {
+    .banner_part {
+        padding: 165px 0 100px 0;
+    }
+    .banner_part .text_con {
+        margin: 73px 90px 0 0;
+    }
+    .banner_part .img_con {
+        margin: 0 130px 0 0;
+    }
+    .features_part {
+        padding: 35px 0 35px 0;
+    }
+    footer {
+        padding: 35px 0 20px 0;
+    }
+    footer .content input {
+        width: 576px;
+        margin: 25px 0 0 100px;
+    }
+    footer .content .butten {
+        margin: 17px 0 0 0;
+    }
+    footer .icon a {
+        margin: 0 5px;
+    }
+    .address .ri {
+        margin: 0;
+    }
+}
+@media (min-width: 1200px) and (max-width:1400px) {
+    .banner_part {
+        padding: 165px 0 100px 0;
+    }
+    .banner_part .text_con {
+        margin: 73px 90px 0 0;
+    }
+    .banner_part .img_con {
+        margin: 0 130px 0 0;
+    }
+    .features_part {
+        padding: 35px 0 35px 0;
+    }
+    footer {
+        padding: 35px 0 20px 0;
+    }
+    footer .content input {
+        width: 576px;
+        margin: 25px 0 0 100px;
+    }
+    footer .content .butten {
+        margin: 17px 0 0 0;
+    }
+    footer .icon a {
+        margin: 0 5px;
+    }
+    .address .ri {
+        margin: 0;
+    }
+}

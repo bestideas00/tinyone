@@ -1,0 +1,223 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family:  "PT Sans", sans-serif;
+}
+ul, ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6,p {
+    margin: 0;
+    padding: 0;
+}
+html,body {
+    overflow-x: hidden;
+}
+/* nav start */
+nav {
+    margin: 0 0 -125px 0;
+    position: fixed !important;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    transition: .4s;
+}
+
+nav .navbar-brand {
+    padding: 10px 0 0 0;
+}
+nav ul {
+    padding: 50px 0 10px 0;
+}
+nav ul li {
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101;
+	margin: -42px 70px 0 0;
+}
+.fixed_menu {
+    background: #898989;
+    transition: .4s;
+}
+/* nav end */
+/* banner start */
+.banner_part {
+    padding: 164px 0 100px 0;
+    background: #fcdb00;
+}
+.banner_part .banner {
+    display: flex;
+}
+.banner_part .text_con {
+    margin: 73px 317px 0 0;
+}
+.banner_part .text_con {
+	margin: 63px 412px 0 0;
+}
+.banner_part .text_con h2 {
+    font-size: 32px;
+    color: #010101;
+    font-weight: 700;
+}
+.banner_part .text_con .med {
+    padding: 20px 0;
+}
+.banner_part .text_con .med h3 {
+    font-size: 20px;
+    color: #313841;
+    font-weight: 400;
+}
+.banner_part .text_con p {
+    font-size: 16px;
+    color: #555555;
+    font-weight: 400;
+}
+.banner_part .img_con {
+	margin: 0 20px 0 0;
+}
+.banner_part .icon {
+    margin: 30px 0 0 0;
+}
+.banner_part .icon a {
+    font-size: 42px;
+    color: #010101;
+    margin:0 20px 0 0;
+}
+.banner_part .img_con {
+    margin: 0 132px 0 0;
+}
+.banner_part .slick-dots {
+    position: absolute;
+    bottom: -77px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.banner_part .slick-dots li {
+    display: inline-block;
+    margin: 0 4px;
+}
+.banner_part .slick-dots li button {
+    font-size: 0px;
+    width: 14px;
+    height: 14px;
+    background: rgba(255, 255, 255,.5);
+    border: none;
+    border-radius: 50%;
+    transition: .4s;
+}
+.banner_part .slick-dots .slick-active button {
+    background: #fff;
+}
+/* banner end */
+/* features start */
+.features_part {
+    padding: 120px 0 160px 0;
+}
+.features_part .title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+    margin: 0 0 15px 0;
+}
+.features_part .title p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+    width: 800px;
+    margin: 0 auto;
+}
+.features_part .features_con {
+    margin: 90px 0 0 0;
+}
+.features_part .icon {
+    width: 120px;
+    text-align: center;
+    margin: 3px 20px 0 0;
+}
+.features_part .detail h2 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+    margin: 0 0 5px 0;
+}
+.features_part .detail p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+}
+/* features end */
+/* footer start */
+footer {
+    padding: 90px 0 20px 0;
+    background: #010101;
+}
+footer .title h2 {
+    font-size: 32px;
+    font-weight: 400;
+    color: #fcdb00;
+    margin: 0 0 10px 0;
+}
+footer .title p {
+    color: #898989;
+    font-size: 20px;
+    font-weight: 400;
+    width: 737px;
+    margin: 0 auto;
+}
+footer .content {
+    display: flex;
+    margin: 20px 0 0 0;
+}
+footer .content input {
+    width: 580px;
+    padding: 10px 15px;
+    margin: 0 0 0 280px;
+    border-radius: 7px;
+    background: #fff;
+}
+footer .content input::placeholder {
+    font-size: 20px;
+    font-weight: 400;
+    color: #898989;
+}
+footer .content .butten a {
+    background: #fcdb00;
+    border: none;
+    color: #221e01;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 11px 42px ;
+    margin: 0 0 0 15px;
+}
+footer .icon {
+    margin: 60px 0 0 0;
+}
+footer .icon a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    margin: 0 20px;
+    background: #fcdb00;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #010101;
+}
+/* footer end */
+/* adderss start */
+.address {
+    padding: 80px 0 0 0;
+    background: #010101;
+}
+.address .ri {
+    margin: 0 0 0 100px;
+}
+/* adderss end */
