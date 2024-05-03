@@ -1,19 +1,27 @@
 @media (min-width: 320px) and (max-width:575.98px) {
-    nav {
-        margin: 0 0 -0px 0;
-    }
     nav .navbar-brand {
         padding: 10px 0 10px 0;
     }
+    nav .navbar-brand i {
+        font-size: 20px;
+    }
     nav ul li {
-        margin: 0 0px 0 0;
+        margin: 0 0 0 0;
         text-align: center;
+        background: #898989;
     }
     .banner_part {
         padding: 20px 0 100px 0;
     }
+    .banner_part .banner {
+        display: block;
+    }
     .banner_part .text_con {
-        margin: 0px 0px 0 0;
+        margin: 100px 0 0 0;
+        text-align: center;
+    }
+    .banner_part .text_con .med h3 {
+        font-size: 19px;
     }
     .banner_part .img_con {
         margin: 50px 0 0 0px;

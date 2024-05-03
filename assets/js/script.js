@@ -37,7 +37,7 @@ $('.banner_slider').slick({
 
   // fixed menu
   $(window).scroll(function(){
-    if($(window).scrollTop() > 200) {
+    if($(window).scrollTop() > 100) {
       $(".menu").addClass("fixed_menu")
     }else{
       $(".menu").removeClass("fixed_menu")
